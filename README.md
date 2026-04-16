@@ -1,3 +1,8 @@
+👋 Hello! I'm Ekansh Singh
+🌐 Open Source Explorer | 🚀 Software Engeering | 💻 Full-Stack Developer
+
+3rd Year Software Engineering Student @ Vellore Institute of Technology (VIT).
+
 # 💫 About Me:
 I’m a passionate Full-Stack Developer with a strong interest in backend systems, scalable architecture, and modern web technologies. I enjoy transforming ideas into real-world applications—whether through personal projects, hackathons, or experimental builds.<br><br>🔭 Currently working on<br>Building full-stack applications and exploring AI-based solutions<br><br>👯 Looking to collaborate on<br>Web development, AI/ML projects, and open-source contributions<br><br>🤝 Looking for help with<br>System design, scalable architectures, and deep learning<br><br>🌱 Currently learning<br>Data Structures & Algorithms, Machine Learning, Backend Engineering, and Cloud (AWS)<br><br>💬 Ask me about<br>Java, Python, JavaScript, Full-Stack Development, and problem-solving
 
