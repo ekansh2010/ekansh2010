@@ -1,4 +1,4 @@
-👋 Hello! I'm Ekansh Singh
+🔥 Hello! I'm Ekansh Singh
 🌐 Open Source Explorer | 🚀 Software Engeering | 💻 Full-Stack Developer
 
 3rd Year Software Engineering Student @ Vellore Institute of Technology (VIT).
